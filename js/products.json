@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "image": "",
+      "product_name": "Combo01",
+      "product_model": "Tênis Air Jordan",
+      "price": 1199.99
+    },
+    {
+      "id": 2,
+      "image": "",
+      "product_name": "Combo02",
+      "product_model": "Tênis Air Jordan",
+      "price": 1049.99
+    },
+    {
+      "id": 3,
+      "image": "",
+      "product_name": "Combo03",
+      "product_model": "Tênis Air Jordan",
+      "price": 1350.00
+    },
+    {
+      "id": 4,
+      "image": "",
+      "product_name": "Combo04",
+      "product_model": "Tênis Air Jordan",
+      "price": 1585.00
+    },
+    {
+      "id": 5,
+      "image": "",
+      "product_name": "Combo05",
+      "product_model": "Tênis Air Jordan",
+      "price": 949.99
+    },
+    {
+      "id": 6,
+      "image": "",
+      "product_name": "Combo06",
+      "product_model": "Tênis Air Jordan",
+      "price": 999.99
+    }
+  ]
