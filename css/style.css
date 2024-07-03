@@ -96,7 +96,7 @@ section{
 img{
     border-radius: 10px 10;
 }
-div.fotoPequena{
+.fotoPequena{
     width: 100%;
     display: flex;
    gap: 30px;
@@ -104,11 +104,12 @@ div.fotoPequena{
     justify-content: center;
  
 }
-div.fotoGrand {
+.fotoGrand {
   max-width: 412px;
     height: 430px;
     display: flex;
     gap: 30px;
+    background-image: url(../images/shoya-Gr.png);
     align-items: center;
     justify-content: center;
     background-position: center;
@@ -117,8 +118,11 @@ div.fotoGrand {
 
 }
 
-section  , .esconde {
+section ,  .esconde {
     display: none;
+}
+.mostra{
+display: flex;
 }
 section.aparecer {
 display: block;
