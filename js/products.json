@@ -1,10 +1,10 @@
 [
     {
       "id": 1,
-      "image": "",
+      "image-pq": "./images/shoya.png",
+      "image-gr": "./images/shoya.png",
       "product_name": "Combo01",
-      "product_model": "Tênis Air Jordan",
-      "price": 1199.99
+      "descriçao": "Tênis Air Jordan"
     },
     {
       "id": 2,
