@@ -92,7 +92,21 @@ main{
     align-items: center;
     justify-content: center;
 }
+.pai {
+    background: rgba(255, 99, 71, 0.119);
+}
+ul{
+    width: 100px;
+    display: flex;
+ flex-direction: column;   
+ font-size: 14px;
+ gap: 2px;
+}
 
-
-
-
+.prato{
+    margin-top: 40px;
+}
+img{
+    display: block;
+   
+}

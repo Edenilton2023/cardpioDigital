@@ -40,7 +40,9 @@ const pratos = Array.from(document.querySelectorAll('.pai'))
 
 
 pratos.map((item)=>{
+
 item.addEventListener('click',()=>{
+
 if (item.children.length >= 2) {
 // Alterna a classe 'secao' para os filhos do elemento
 
