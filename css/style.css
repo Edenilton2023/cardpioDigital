@@ -91,20 +91,33 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
+}h3 {
+   
+    padding: 1px;
 }
-.pai {
-    background: rgba(255, 99, 71, 0.119);
+h2{
+    margin-top: 20px;
 }
+
 ul{
     width: 100px;
     display: flex;
  flex-direction: column;   
  font-size: 14px;
- gap: 2px;
-}
+ gap: 5px;
 
+}
+li {
+background: linear-gradient(to right, rgba(255, 99, 71, 0.182), rgba(255, 99, 71, 0.006));
+    padding: 1px;
+}
+p{
+    font-size: 14px;
+    padding: 1px;
+}
 .prato{
     margin-top: 40px;
+    background: linear-gradient(to right, rgba(255, 99, 71, 0.427),rgba(255, 99, 71, 0.006));
 }
 img{
     display: block;
