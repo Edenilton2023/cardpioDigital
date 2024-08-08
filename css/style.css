@@ -13,7 +13,7 @@
 body{
 width: 415px;
 height: 100%;
-font-family: Archivo, sans-serif;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 background: #fa7a1ed3;
 }
 .topo{
@@ -24,7 +24,7 @@ position: fixed;
     background-image: url(../images/topo-pq.png);
   background-size:auto;
     background-repeat: no-repeat;
-  
+
 
     background-color: var(--white_soft);
     display: flex;
@@ -91,9 +91,10 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
+  flex-wrap: wrap;
 }h3 {
    
-    padding: 1px;
+
 }
 h2{
     margin-top: 20px;
@@ -108,16 +109,23 @@ ul{
 
 }
 li {
-background: linear-gradient(to right, rgba(255, 99, 71, 0.182), rgba(255, 99, 71, 0.006));
+background: linear-gradient(to right, rgba(255, 99, 71, 0.579), rgba(255, 99, 71, 0.015));
     padding: 1px;
 }
 p{
     font-size: 14px;
     padding: 1px;
 }
+
+  
+  .menushow{
+   
+    margin-bottom: 180px;
+  }
+
 .prato{
     margin-top: 40px;
-    background: linear-gradient(to right, rgba(255, 99, 71, 0.427),rgba(255, 99, 71, 0.006));
+    background: linear-gradient(to right, rgba(255, 99, 71, 0.576),rgba(255, 99, 71, 0.006));
 }
 img{
     display: block;
